@@ -18,58 +18,46 @@ MySQL samples from my courses
 
 <p align="center">
 MySQL code: <br/>
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall1.png" />
+<img src="https://github.com/CaddenB26/MySQL/blob/c4b625b08379a18a18bbd2992522ef4bef5b4f46/SQL.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall2.png" />
+<img src="https://github.com/CaddenB26/MySQL/blob/c4b625b08379a18a18bbd2992522ef4bef5b4f46/SQL1.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall3.png" />
+<img src="https://github.com/CaddenB26/MySQL/blob/c4b625b08379a18a18bbd2992522ef4bef5b4f46/SQL2.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall4.png" />
+<img src="https://github.com/CaddenB26/MySQL/blob/c4b625b08379a18a18bbd2992522ef4bef5b4f46/SQL3.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall5.png" />
+<img src="https://github.com/CaddenB26/MySQL/blob/c4b625b08379a18a18bbd2992522ef4bef5b4f46/SQL4.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall6.png" />
+<img src="https://github.com/CaddenB26/MySQL/blob/c4b625b08379a18a18bbd2992522ef4bef5b4f46/SQL5.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall7.png" />
+<img src="https://github.com/CaddenB26/MySQL/blob/c4b625b08379a18a18bbd2992522ef4bef5b4f46/SQL6.png" />
 <br />
 <br />
- <img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall8.png" />
+ <img src="https://github.com/CaddenB26/MySQL/blob/c4b625b08379a18a18bbd2992522ef4bef5b4f46/SQL7.png" />
 <br />
 <br />
- <img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall9.png" />
+ <img src="https://github.com/CaddenB26/MySQL/blob/c4b625b08379a18a18bbd2992522ef4bef5b4f46/SQL8.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall10.png" />
+<img src="https://github.com/CaddenB26/MySQL/blob/c4b625b08379a18a18bbd2992522ef4bef5b4f46/SQL9.png" />
 <br />
 <br />
- <img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall11.png" />
+ <img src="https://github.com/CaddenB26/MySQL/blob/c4b625b08379a18a18bbd2992522ef4bef5b4f46/SQL10.png" />
 <br />
 <br />
- <img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall12.png" />
+ <img src="https://github.com/CaddenB26/MySQL/blob/c4b625b08379a18a18bbd2992522ef4bef5b4f46/SQL11.png" />
 <br />
 <br />
- <img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall13.png" />
+ <img src="https://github.com/CaddenB26/MySQL/blob/c4b625b08379a18a18bbd2992522ef4bef5b4f46/SQL12.png" />
 <br />
 <br />
- <img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall14.png" />
-<br />
-<br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/c0e8d3b0f7c97eca78675b86e04f27ba82b2d978/Anaconda.png" />
-<br />
-<br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/c0e8d3b0f7c97eca78675b86e04f27ba82b2d978/Anaconda1.png" />
-<br />
-<br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/c0e8d3b0f7c97eca78675b86e04f27ba82b2d978/Anaconda2.png" />
-<br />
-<br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/c0e8d3b0f7c97eca78675b86e04f27ba82b2d978/Anaconda3.png" />
+ <img src="https://github.com/CaddenB26/MySQL/blob/c4b625b08379a18a18bbd2992522ef4bef5b4f46/SQL13.png" />
 <br />
 <br />
 </p>
